@@ -1,0 +1,3 @@
+---
+nginx_sites:
+  - production/nginx/example.com.conf
